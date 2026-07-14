@@ -2,7 +2,7 @@
 
 将多张发票 PDF 或图片按自定义网格排版，合并导出为单个 PDF 的跨平台桌面工具。
 
-<img width="2833" height="1747" alt="1cd46a25f14baab5b3b18ba77dd02ff7" src="https://github.com/user-attachments/assets/79e0174a-1b41-4d95-a408-8eae9e9b3322" />
+<img width="2832" height="1826" alt="image" src="https://github.com/user-attachments/assets/832aee0b-b692-412d-bb20-1590e3a7ef29" />
 
 <img width="2832" height="1826" alt="image" src="https://github.com/user-attachments/assets/fef4c3e0-0c8f-4c80-b155-beeca9bd5012" />
 
